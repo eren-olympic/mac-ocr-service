@@ -33,5 +33,5 @@ xcuserdata/
 # Compiled binary
 ocr
 
-# Output files
-*.txt
+# Example files
+Examples/

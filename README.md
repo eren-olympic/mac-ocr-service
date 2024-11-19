@@ -20,7 +20,7 @@
 
 1. 克隆倉庫：
 ```bash
-git clone https://github.com/YOUR_USERNAME/mac-ocr-service.git
+git clone https://github.com/eren-olympic/mac-ocr-service.git
 cd mac-ocr-service
 ```
 
